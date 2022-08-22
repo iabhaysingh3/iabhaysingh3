@@ -1,11 +1,10 @@
 # <div align="center"> Hey <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">, Coder's , Abhay singh , a front-end  developer 👨‍💻 🚀</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-## 🏆 GitHub Trophies
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iabhaysingh3&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iabhaysingh3" alt="iabhaysingh3" /></a> </p>
 
 
