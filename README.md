@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a Platform Project Mobile review site<br><br>🌱 I’m currently learning java and react.js<br><br>👨‍💻 All of my projects are available at https://github.com/iabhaysingh3/<br><br>📫 How to reach me iabhaysingh3@gmail.com<br><br>Ask me about HTML, CSS, JavaScript<br><br>
+🔭 I’m currently working on a Platform Project Mobile review site<br><br>🌱 I’m currently learning <b>Web Development<br><br>👨‍💻 All of my projects are available at https://github.com/iabhaysingh3/<br><br>📫 How to reach me iabhaysingh3@gmail.com<br><br>Ask me about HTML, CSS & JavaScript<br><br>
 
 
 ## 🌐 Socials:
