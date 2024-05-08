@@ -1,4 +1,4 @@
-# <div align="center"> Hey <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">, Coder's , Abhay singh , a front-end  developer 👨‍💻 🚀</div>
+# <div align="center"> Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">I'm Abhay Singh</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ---
